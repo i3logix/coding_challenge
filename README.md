@@ -5,7 +5,7 @@ These tests are designed to give us a sense of your style as a programmer as wel
 Like real life, we expect that you may need or want to look at some
 completed solutions to these problems in order to inspire your solution. Please keep in mind though that during the next stage of the interview process you will need to make alterations to your code to solve for different use-cases and/or edge-cases, so please make sure to write something that you understand and can work with on the fly.
 
-<b>Please only complete one of the three challenges</b>
+<b>Please only complete one of the three challenges!</b>
 
 <h2>Submission Steps</h2>
 
