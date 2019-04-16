@@ -18,7 +18,7 @@ This is what you'll need to do to submit your challenge:
 
 This repository includes example tests that you can run with npm. [If you don't have npm, you can find the instructions on installing it here.](https://www.npmjs.com/get-npm). After running `npm ci` you should be able to run:
 
-- `npm run test-check` (Runs tests for all the **** challenge)
+- `npm run test-check` (Runs tests for all the **Converting a Number to a String for Writing a Check** challenge)
 - `npm run test-gol` (Runs tests for all the **The Game of Life** challenge)
 - `npm run test-poker` (Runs tests for all the **Ranking Poker Hands** challenge)
 
