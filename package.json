@@ -1,18 +1,21 @@
 {
-  "name": "arrays",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "i3logix Code Challenge",
   "scripts": {
-    "test": "mocha -w --compilers js:babel-core/register ./test/**"
+    "test-check": "mocha -w --require @babel/register ./test/CheckWriter/**",
+    "test-gol": "mocha -w --require @babel/register ./test/GameOfLife/**",
+    "test-poker": "mocha -w --require @babel/register ./test/PokerHand/**"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "i3logix",
+  "license": "MIT",
   "devDependencies": {
-    "babel-core": "^6.22.1",
-    "babel-preset-es2015": "^6.22.0",
-    "chai": "^3.5.0",
-    "mocha": "^3.2.0"
+    "@babel/core": "^7.4.3",
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@babel/preset-env": "^7.4.3",
+    "@babel/register": "^7.4.0",
+    "babel-core": "^7.0.0-0",
+    "babel-preset-env": "^1.7.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.3"
   }
 }
