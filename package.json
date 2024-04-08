@@ -14,9 +14,9 @@
     "@babel/preset-env": "^7.4.3",
     "@babel/register": "^7.4.0",
     "babel-core": "^7.0.0-0",
-    "babel-preset-env": "^1.7.0",
+    "babel-preset-env": "^0.0.0",
     "chai": "^4.2.0",
-    "mocha": "^10.2.0",
-    "minimist": ">=1.2.7"
+    "minimist": ">=1.2.7",
+    "mocha": "^10.2.0"
   }
 }
